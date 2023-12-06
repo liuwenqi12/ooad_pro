@@ -10,7 +10,9 @@
 <script>
 export default {
   data() {
+
     return {
+
       username: this.$route.params.username,
       userInfo: null
     };

@@ -75,6 +75,7 @@ export default {
       // 跳转到Home页面
       this.$router.push({name: 'mainpage', params: {username: this.account.username}});
     },
+
     loginWithPhone() {
       // 处理手机号验证码登录逻辑，验证手机号和验证码是否正确，成功则跳转到首页
       console.log('Phone Login:', this.phone);
