@@ -7,7 +7,6 @@
 <!--    <p>{{ userInfo }}</p>-->
   </div>
 </template>
-
 <script>
 export default {
   data() {
