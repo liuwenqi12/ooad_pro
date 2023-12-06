@@ -23,7 +23,6 @@
         <el-menu-item @click="goToGerenxinxi">个人信息</el-menu-item>
       </el-menu-item-group>
     </el-submenu>
-
     <el-submenu index=“2”>
       <template slot="title">
         <i class="el-icon-folder-opened"></i>
