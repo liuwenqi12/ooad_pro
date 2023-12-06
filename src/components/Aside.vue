@@ -8,6 +8,7 @@
            active-text-color="pink"
            :collapse-transition="false"
            :collapse="iscollapse"
+
            router
   >
     <div style="height: 60px;line-height: 60px;text-align: center">
